@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm M Reddy Varun</h1>
-<h3 align="center">A passionate Python full stack developer from India.</h3>
+<h3 align="center">A passionate Python Full Stack Developer from India.</h3>
 
 - 🌱 I’m currently learning **Django,Core Python,ReactJs,RestAPI,Javascript**
 
